@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+**/bin/
+**/obj/
+
+# Node
+**/node_modules/
+**/dist/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Visual Studio user files
+*.csproj.user
